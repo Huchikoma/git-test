@@ -12,6 +12,7 @@ def print_hi(name):
     print ("abc")
     print("test")
     print("chinese")
+    print("english")
 
 
 # 按间距中的绿色按钮以运行脚本。
