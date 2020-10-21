@@ -10,6 +10,7 @@ def print_hi(name):
     print("Hi, {0}".format(name))  # 按 ⌘F8 切换断点。
     print("HiHi")
     print ("abc")
+    print("test")
 
 
 # 按间距中的绿色按钮以运行脚本。
